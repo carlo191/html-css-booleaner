@@ -1,10 +1,28 @@
-/* #logo */
-
-.logo {
-    background-image: url("../img/pattern.png");
-    background-color: rgb(0, 174, 255); 
-    height: 200px ;
-    
-    
-    
+/* #reset*/
+img{
+    max-width: 100%;
 }
+body{margin: 0;}
+/*header*/
+.pattern {
+    background-image: url("../img/pattern.png");
+    background-color: rgb(0, 102, 255); 
+    height: 200px ;
+    margin-bottom: -117px;
+    padding-bottom: -8px;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+}
+.date{
+    color: grey;
+}
+.scritto{
+    color: grey;
+}
+.the{
+    color: rgb(0, 162, 255);
+}
+
+
